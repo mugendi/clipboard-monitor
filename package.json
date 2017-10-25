@@ -1,0 +1,32 @@
+{
+  "name": "clipboard-monitor",
+  "version": "1.0.0",
+  "description": "monitor clipboard for changes & emit events when new items are added to the clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test-copy.js"
+  },
+  "keywords": [
+    "clipboard",
+    "monitor",
+    "copy",
+    "paste",
+    "copy-paste", 
+    "pasteboard",
+     "read", 
+     "write", 
+     "pbcopy", 
+     "clip", 
+     "xclip", 
+     "xsel"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^1.1.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chance": "^1.0.11"
+  }
+}
