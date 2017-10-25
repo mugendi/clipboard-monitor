@@ -1,6 +1,6 @@
 {
   "name": "clipboard-monitor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "monitor clipboard for changes & emit events when new items are added to the clipboard",
   "main": "index.js",
   "scripts": {
