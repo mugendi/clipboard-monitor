@@ -28,5 +28,16 @@
   "devDependencies": {
     "chai": "^4.1.2",
     "chance": "^1.0.11"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/clipboard-monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/clipboard-monitor/issues"
+  },
+  "homepage": "https://github.com/mugendi/clipboard-monitor#readme"
 }
