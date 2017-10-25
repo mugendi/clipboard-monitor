@@ -1,6 +1,6 @@
 {
   "name": "clipboard-monitor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "monitor clipboard for changes & emit events when new items are added to the clipboard",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
     "monitor",
     "copy",
     "paste",
-    "copy-paste", 
+    "copy-paste",
     "pasteboard",
-     "read", 
-     "write", 
-     "pbcopy", 
-     "clip", 
-     "xclip", 
-     "xsel"
+    "read",
+    "write",
+    "pbcopy",
+    "clip",
+    "xclip",
+    "xsel"
   ],
   "author": "Anthony Mugendi <ngurumugz@gmail.com>",
   "license": "MIT",
